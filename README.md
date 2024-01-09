@@ -1,7 +1,7 @@
 # progetto-ingegneria
 
 
-Progetto di Ingegneria del software 2. Sistema Mentcare.
+Progetto di Ingegneria del software 2. Sistema Mentcare per Stefano Tanfoglio.
 
 Requisiti: bisogna trovare 9 scenari.
 
