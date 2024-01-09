@@ -7,7 +7,7 @@ Nell'ingegneria del software, uno scenario si riferisce a una descrizione dettag
 
 Gli scenari possono essere utilizzati in varie fasi del ciclo di vita del software, dalla raccolta dei requisiti all'analisi, progettazione, implementazione e test.
 
-
+godo
 
 
 
