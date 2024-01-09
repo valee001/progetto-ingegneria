@@ -1,4 +1,7 @@
 # progetto-ingegneria
+
+Mannaggia a quel porcaccio di Dio.
+
 Progetto di Ingegneria del software 2. Sistema Mentcare.
 
 Requisiti: bisogna trovare 9 scenari.
