@@ -1,6 +1,6 @@
 # progetto-ingegneria
 
-Mannaggia a quel porcaccio di Dio.
+Mannaggia a quel porcaccio di Dio modificato
 
 Progetto di Ingegneria del software 2. Sistema Mentcare.
 
